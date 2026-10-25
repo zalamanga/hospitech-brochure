@@ -1,0 +1,1 @@
+<section class="section error-section"><div class="shell"><p class="eyebrow">Brochure navigation</p><h1><?= e($route['heading']) ?></h1><p class="lead"><?= e($route['message']) ?></p><div class="actions"><a class="button primary" href="/">Return home</a><a class="text-link" href="/?page=contact">Create a local draft</a></div></div></section>

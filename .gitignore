@@ -1,0 +1,10 @@
+/.env
+/.env.*
+*.log
+/.idea/
+/.vscode/
+/test-results/
+/node_modules/
+/vendor/
+/data/
+/sessions/
